@@ -1,2 +1,5 @@
 .rvenv3.8
 .rvenv3.8/
+
+/rtodo/__pycache__
+rtodo/__pycache__
